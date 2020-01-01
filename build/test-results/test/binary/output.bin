@@ -1,0 +1,6 @@
+7Response Body is<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+! <status>REQUEST_DENIED</status>
+A <error_message>The provided API key is invalid.</error_message>
+</PlaceSearchResponse>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.restassignment.WeatherRestAssuredTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-01T10:48:59" hostname="lucky" time="8.924">
+  <properties/>
+  <testcase name="googleMapTest" classname="com.restassignment.WeatherRestAssuredTest" time="8.924"/>
+  <system-out><![CDATA[Response Body is<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>REQUEST_DENIED</status>
+ <error_message>The provided API key is invalid.</error_message>
+</PlaceSearchResponse>
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

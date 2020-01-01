@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d16a31b1-ada5-46c8-8193-96e5be1d6653" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VmoULyjYkK1wy9JfyVMJhAX7TS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Gradle.WeatherRestAssuredTest.googleMapTest">
+    <configuration name="WeatherRestAssuredTest.addCustomerDetailsToRepository" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.restassignment.WeatherRestAssuredTest.addCustomerDetailsToRepository&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="WeatherRestAssuredTest.googleMapTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.restassignment.WeatherRestAssuredTest.googleMapTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="WeatherRestAssuredTest.testgetAllWeatherReport" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.restassignment.WeatherRestAssuredTest.testgetAllWeatherReport&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.WeatherRestAssuredTest.googleMapTest" />
+        <item itemvalue="Gradle.WeatherRestAssuredTest.addCustomerDetailsToRepository" />
+        <item itemvalue="Gradle.WeatherRestAssuredTest.testgetAllWeatherReport" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d16a31b1-ada5-46c8-8193-96e5be1d6653" name="Default Changelist" comment="" />
+      <created>1577867646009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577867646009</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="140" width="501" height="513" key="FileChooserDialogImpl" timestamp="1577871721802">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="461" y="140" width="501" height="513" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1577871721802" />
+    <state width="1253" height="250" key="GridCell.Tab.0.bottom" timestamp="1577875729275">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="250" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1577875729275" />
+    <state width="1253" height="250" key="GridCell.Tab.0.center" timestamp="1577875729273">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="250" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1577875729273" />
+    <state width="1253" height="250" key="GridCell.Tab.0.left" timestamp="1577875729272">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="250" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1577875729272" />
+    <state width="1253" height="250" key="GridCell.Tab.0.right" timestamp="1577875729274">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="250" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1577875729274" />
+    <state x="299" y="142" width="824" height="508" key="IDE.errors.dialog" timestamp="1577871408710">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="299" y="142" width="824" height="508" key="IDE.errors.dialog/67.27.1299.741@67.27.1299.741" timestamp="1577871408710" />
+    <state x="205" y="31" key="SettingsEditor" timestamp="1577871949802">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="205" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1577871949802" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1577871899287">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1577871899287" />
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1577871935951">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1577871935951" />
+  </component>
+</project>
